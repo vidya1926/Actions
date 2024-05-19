@@ -1,0 +1,13 @@
+CREATE USER
+Field value verified successfully
+India
+Field value verified successfully
+Tamil Nadu
+Field value verified successfully
+(GMT+05:30) Indian Standard Time/Kolkata
+Field value verified successfully
+Indian Rupee
+Field value verified successfully
+Save is visible as expected.
+“Callie” has been created successfully.
+Field value verified successfully

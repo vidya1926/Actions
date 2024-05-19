@@ -1,0 +1,145 @@
+Error loading the page: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner
+Call log:
+  - navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"
+
+    at C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:70:33
+    at catalogPage.loadApp (C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:69:24)
+    at leanerLogin (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerLogin.ts:9:10)
+    at leanerHomePage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerHomePage.ts:9:9)
+    at catalogPage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\catalogPage.ts:8:9)
+    at Object.catalog (C:\Users\AjayMichael\expertus_oneFrameWork\customFixtures\expertusFixture.ts:57:25) {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@10',
+    location: {
+      file: 'C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts',
+      line: 70,
+      column: 33,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://learn.e1cloudqa.com/learner)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://learn.e1cloudqa.com/learner',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    wallTime: 1713245179910,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1713245180125,
+    error: {
+      message: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:70:33\n' +
+        '    at catalogPage.loadApp (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:69:24)\n' +
+        '    at leanerLogin (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerLogin.ts:9:10)\n' +
+        '    at leanerHomePage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerHomePage.ts:9:9)\n' +
+        '    at catalogPage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\catalogPage.ts:8:9)\n' +
+        '    at Object.catalog (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\customFixtures\\expertusFixture.ts:57:25)'
+    }
+  }
+}
+Error loading the page: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner
+Call log:
+  - navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"
+
+    at C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:70:33
+    at catalogPage.loadApp (C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:69:24)
+    at catalogPage.common (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerHomePage.ts:14:20)
+    at leanerHomePage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerHomePage.ts:10:14)
+    at catalogPage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\catalogPage.ts:8:9)
+    at Object.catalog (C:\Users\AjayMichael\expertus_oneFrameWork\customFixtures\expertusFixture.ts:57:25) {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@12',
+    location: {
+      file: 'C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts',
+      line: 70,
+      column: 33,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://learn.e1cloudqa.com/learner)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://learn.e1cloudqa.com/learner',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    wallTime: 1713245179945,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1713245180142,
+    error: {
+      message: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:70:33\n' +
+        '    at catalogPage.loadApp (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:69:24)\n' +
+        '    at catalogPage.common (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerHomePage.ts:14:20)\n' +
+        '    at leanerHomePage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerHomePage.ts:10:14)\n' +
+        '    at catalogPage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\catalogPage.ts:8:9)\n' +
+        '    at Object.catalog (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\customFixtures\\expertusFixture.ts:57:25)'
+    }
+  }
+}
+Error loading the page: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner
+Call log:
+  - navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"
+
+    at C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:70:33
+    at leanerHomePage.loadApp (C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:69:24)
+    at leanerLogin (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerLogin.ts:9:10)
+    at leanerHomePage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\leanerHomePage.ts:9:9)
+    at Object.leanerHome (C:\Users\AjayMichael\expertus_oneFrameWork\customFixtures\expertusFixture.ts:53:28) {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@15',
+    location: {
+      file: 'C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts',
+      line: 70,
+      column: 33,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://learn.e1cloudqa.com/learner)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://learn.e1cloudqa.com/learner',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    wallTime: 1713245179981,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1713245180148,
+    error: {
+      message: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/learner\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/learner", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:70:33\n' +
+        '    at leanerHomePage.loadApp (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:69:24)\n' +
+        '    at leanerLogin (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerLogin.ts:9:10)\n' +
+        '    at leanerHomePage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\leanerHomePage.ts:9:9)\n' +
+        '    at Object.leanerHome (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\customFixtures\\expertusFixture.ts:53:28)'
+    }
+  }
+}

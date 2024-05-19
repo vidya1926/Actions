@@ -1,0 +1,3 @@
+Sign Out is visible as expected.
+Catalog is visible as expected.
+ENROLL is visible as expected.

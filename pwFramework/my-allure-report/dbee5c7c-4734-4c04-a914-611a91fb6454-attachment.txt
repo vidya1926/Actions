@@ -1,0 +1,6 @@
+CREATE COURSE
+Field value verified successfully
+Show in Catalog is visible as expected.
+Save is visible as expected.
+Course “PlayWright” has been updated successfully.
+Field value verified successfully

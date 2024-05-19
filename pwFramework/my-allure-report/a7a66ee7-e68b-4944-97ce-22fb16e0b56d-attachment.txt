@@ -1,0 +1,48 @@
+Error loading the page: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/
+Call log:
+  - navigating to "https://learn.e1cloudqa.com/", waiting until "load"
+
+    at C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:70:33
+    at adminHomePage.loadApp (C:\Users\AjayMichael\expertus_oneFrameWork\utils\playwright.ts:69:24)
+    at adminHomePage.common (C:\Users\AjayMichael\expertus_oneFrameWork\pages\adminHomePage.ts:14:20)
+    at adminHomePage (C:\Users\AjayMichael\expertus_oneFrameWork\pages\adminHomePage.ts:11:14)
+    at Object.adminHome (C:\Users\AjayMichael\expertus_oneFrameWork\customFixtures\expertusFixture.ts:35:24) {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@10',
+    location: {
+      file: 'C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts',
+      line: 70,
+      column: 33,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://learn.e1cloudqa.com/)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://learn.e1cloudqa.com/',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    wallTime: 1712981330077,
+    boxedStack: undefined,
+    steps: [],
+    complete: [Function: complete],
+    endWallTime: 1712981330247,
+    error: {
+      message: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_ABORTED at https://learn.e1cloudqa.com/\n' +
+        'Call log:\n' +
+        '  \x1B[2m- navigating to "https://learn.e1cloudqa.com/", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:70:33\n' +
+        '    at adminHomePage.loadApp (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\utils\\playwright.ts:69:24)\n' +
+        '    at adminHomePage.common (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\adminHomePage.ts:14:20)\n' +
+        '    at adminHomePage (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\pages\\adminHomePage.ts:11:14)\n' +
+        '    at Object.adminHome (C:\\Users\\AjayMichael\\expertus_oneFrameWork\\customFixtures\\expertusFixture.ts:35:24)'
+    }
+  }
+}
+Proceed is not visible.

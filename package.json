@@ -12,17 +12,22 @@
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
-    "@playwright/test": "^1.43.1",
+    "@playwright/test": "^1.44.0",
     "@types/node": "^20.12.8",
+    "allure-commandline": "^2.29.0",
+    "allure-playwright": "^2.15.1",
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@types/tesseract.js": "^2.0.0",
     "csv": "^6.3.8",
     "csv-parse": "^5.5.5",
     "csv-parser": "^3.0.0",
     "dotenv": "^16.4.5",
     "faker": "^6.6.6",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "playwright": "^1.44.0",
+    "tesseract.js": "^5.1.0"
   },
   "directories": {
     "test": "tests"

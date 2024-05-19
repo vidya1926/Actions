@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "ef7bfcf1d75abbbdc9d89c8d0514930e",
+      "domain": ".learn.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bdae35a604dcd3e580625816ee4df52f",
+      "value": "YToyOntzOjk6IkJhc2VQYXJhbSI7YTo1OntzOjM6InVybCI7czozODoiaHR0cHM6Ly9sZWFybi5lMWNsb3VkcWEuY29tL2F1dGhvcml6ZWQiO3M6ODoidXNlcm5hbWUiO3M6NToiYWRtaW4iO3M6ODoicGFzc3dvcmQiO3M6OToiV2VsY29tZTFAIjtzOjExOiJpbXBlcnNvbmF0ZSI7czowOiIiO3M6NzoiY29tcGFueSI7czoxMToiRXhwZXJ0dXNPTkUiO31zOjEwOiJBdXRoU3RhdHVzIjthOjM6e3M6NjoiU3RhdHVzIjtzOjc6IlN1Y2Nlc3MiO3M6NzoiTWVzc2FnZSI7czozNzoiVXNlciBhdXRoZW50aWNhdGlvbiBkb25lIHN1Y2Nlc3NmdWxseSI7czo3OiJEZXRhaWxzIjthOjE4OntzOjY6IkFjY2VzcyI7czoyNDY6InsiYWRtaW4iOiBbMV0sICJsZWFybmVyIjogWzEsIDIsIDksIDM0LCA0NSwgNDYsIDcwLCA3OCwgMTAxLCAxMTQsIDExNSwgMTE2LCAxMTksIDEyMCwgMTIxLCAxMjMsIDEyOCwgMTI5LCAxMzEsIDEzMiwgMTMzLCAxMzQsIDEzNSwgMTM2LCAxMzksIDE0MCwgMTQxLCAxNDMsIDE0NCwgMTQ1LCAxNDYsIDE0NywgMTQ5LCAxNTAsIDE1MywgMTU3LCAxNjAsIDE3MCwgMTc4LCAxODAsIDE4MSwgMTgyLCAxODYsIDE4NywgMTkwLCAxOTFdfSI7czo2OiJVc2VySWQiO3M6MzY6IjAxMzJkN2EyLTIwYmYtNGRkNS04ZDBhLWQ1OTY1NTg4YjgzMSI7czo4OiJVc2VybmFtZSI7czo1OiJhZG1pbiI7czo4OiJQYXNzd29yZCI7czozMjoiMGI2ODU5YTc2OGI4N2I5NDMyY2RjMGIyNmE0OWJlNDIiO3M6NToiRW1haWwiO3M6MTg6ImFkbWluQHBlb3BsZW9uZS5jbyI7czo5OiJGaXJzdE5hbWUiO3M6NToiQWRtaW4iO3M6MTE6IkRpc3BsYXlOYW1lIjtzOjEwOiJBZG1pbiBVc2VyIjtzOjg6Ikxhc3ROYW1lIjtzOjQ6IlVzZXIiO3M6ODoiRnVsbE5hbWUiO3M6MTE6IkFkbWluICBVc2VyIjtzOjE3OiJQcmVmZXJyZWRMYW5ndWFnZSI7czo3OiJFbmdsaXNoIjtzOjE3OiJQcmVmZXJyZWRDdXJyZW5jeSI7czo5OiJVUyBEb2xsYXIiO3M6NzoiQ29tcGFueSI7czoxMToiRXhwZXJ0dXNPTkUiO3M6NjoiU3RhdHVzIjtzOjY6IkFjdGl2ZSI7czo1OiJUaXRsZSI7czoxMjoiRGF0YSBNYW5hZ2VyIjtzOjQ6IkNpdHkiO3M6MDoiIjtzOjc6IlBpY3R1cmUiO3M6ODU6Ii9yZXNvdXJjZXMvYzA1YzBlYTFkNmNjN2UzYThkOTg4MjRlNWMwOTY4ZjcvaW1hZ2VzL3Byb2ZpbGUvMTY5MzI4OTg0OS1wcm9maWxlIHBpYy5qcGciO3M6ODoiVGltZVpvbmUiO3M6ODoidG16XzAzMDMiO3M6MzoiX2lkIjtpOjE7fX19",
+      "domain": ".irisupdemo.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "d020d399bf9fcb2b8909c3559364765b",
+      "value": "a%3A1%3A%7Bi%3A0%3Bs%3A19%3A%22learn.e1cloudqa.com%22%3B%7D",
+      "domain": ".irisupdemo.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "657c997910fe88a1375f3922f5f4c540",
+      "value": "0132d7a2-20bf-4dd5-8d0a-d5965588b831",
+      "domain": ".learn.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1350814441.1713268177",
+      "domain": ".e1cloudqa.com",
+      "path": "/",
+      "expires": 1747828177.626493,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_DPHVQ5DW6H",
+      "value": "GS1.1.1713268177.1.0.1713268177.60.0.0",
+      "domain": ".e1cloudqa.com",
+      "path": "/",
+      "expires": 1747828177.573042,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7SR63ZR7PT",
+      "value": "GS1.1.1713268177.1.0.1713268177.0.0.0",
+      "domain": ".e1cloudqa.com",
+      "path": "/",
+      "expires": 1747828177.625226,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

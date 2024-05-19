@@ -1,0 +1,7 @@
+CREATE COURSE
+Field value verified successfully
+Show in Catalog is visible as expected.
+Save is visible as expected.
+Proceed is visible as expected.
+Course “Data Engineering” has been updated successfully.
+Field value verified successfully

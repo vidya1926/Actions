@@ -1,0 +1,95 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "0e879d85b2cc32888156e759433589f3",
+      "domain": ".learn.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1077541075.1713334402",
+      "domain": ".e1cloudqa.com",
+      "path": "/",
+      "expires": 1747894441.980829,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "ZZ5k3tCOUVY",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "xAZMxCWiSRg",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1728886415.517675,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJJThIEGgAgZQ%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1728886415.51793,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bdae35a604dcd3e580625816ee4df52f",
+      "value": "YToyOntzOjk6IkJhc2VQYXJhbSI7YTo5OntzOjM6InVybCI7czozODoiaHR0cHM6Ly9sZWFybi5lMWNsb3VkcWEuY29tL2F1dGhvcml6ZWQiO3M6ODoidXNlcm5hbWUiO3M6NToiQmVsbGUiO3M6ODoicGFzc3dvcmQiO3M6OToiV2VsY29tZTFAIjtzOjc6ImNhcHRjaGEiO3M6MDoiIjtzOjQ6ImFqYXgiO3M6NToiZmFsc2UiO3M6MTE6InJlZGlyZWN0X3RvIjtzOjg6Ii9sZWFybmVyIjtzOjE1OiJjYXB0Y2hhUmVxdWlyZWQiO3M6NToiZmFsc2UiO3M6MTE6ImltcGVyc29uYXRlIjtzOjA6IiI7czo3OiJjb21wYW55IjtzOjExOiJFeHBlcnR1c09ORSI7fXM6MTA6IkF1dGhTdGF0dXMiO2E6Mzp7czo2OiJTdGF0dXMiO3M6NzoiU3VjY2VzcyI7czo3OiJNZXNzYWdlIjtzOjM3OiJVc2VyIGF1dGhlbnRpY2F0aW9uIGRvbmUgc3VjY2Vzc2Z1bGx5IjtzOjc6IkRldGFpbHMiO2E6MTg6e3M6NjoiQWNjZXNzIjtzOjIxMjoieyJhZG1pbiI6IFsxXSwgImxlYXJuZXIiOiBbMSwgMiwgOSwgMzQsIDQ1LCA3MCwgNzgsIDEwMSwgMTE0LCAxMTUsIDExNiwgMTE5LCAxMjEsIDEyMywgMTI4LCAxMjksIDEzMSwgMTMyLCAxMzMsIDEzNCwgMTM1LCAxMzYsIDE0MCwgMTQxLCAxNDMsIDE0NCwgMTQ2LCAxNDcsIDE0OSwgMTUwLCAxNTcsIDE2MCwgMTcwLCAxNzgsIDE4MCwgMTgxLCAxODcsIDE5MCwgMTkxXX0iO3M6NjoiVXNlcklkIjtzOjM2OiJjMTA2YzE5NS1hMDhhLTQzNzYtYWI1NS1jOTc4ZGE1NmY2MTEiO3M6ODoiVXNlcm5hbWUiO3M6NToiQmVsbGUiO3M6ODoiUGFzc3dvcmQiO3M6MzI6IjBiNjg1OWE3NjhiODdiOTQzMmNkYzBiMjZhNDliZTQyIjtzOjU6IkVtYWlsIjtzOjE5OiJKZW5pZmVyNDlAZ21haWwuY29tIjtzOjk6IkZpcnN0TmFtZSI7czo1OiJCZWxsZSI7czoxMToiRGlzcGxheU5hbWUiO047czo4OiJMYXN0TmFtZSI7czo3OiJTdHJlaWNoIjtzOjg6IkZ1bGxOYW1lIjtzOjE0OiJCZWxsZSAgU3RyZWljaCI7czoxNzoiUHJlZmVycmVkTGFuZ3VhZ2UiO3M6NzoiRW5nbGlzaCI7czoxNzoiUHJlZmVycmVkQ3VycmVuY3kiO3M6MTI6IkluZGlhbiBSdXBlZSI7czo3OiJDb21wYW55IjtzOjExOiJFeHBlcnR1c09ORSI7czo2OiJTdGF0dXMiO3M6NjoiQWN0aXZlIjtzOjU6IlRpdGxlIjtOO3M6NDoiQ2l0eSI7czo3OiJDaGVubmFpIjtzOjc6IlBpY3R1cmUiO047czo4OiJUaW1lWm9uZSI7czo4OiJ0bXpfMDMwMyI7czozOiJfaWQiO2k6NDc3MDt9fX0%3D",
+      "domain": ".irisupdemo.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "d020d399bf9fcb2b8909c3559364765b",
+      "value": "a%3A1%3A%7Bi%3A0%3Bs%3A19%3A%22learn.e1cloudqa.com%22%3B%7D",
+      "domain": ".irisupdemo.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "657c997910fe88a1375f3922f5f4c540",
+      "value": "c106c195-a08a-4376-ab55-c978da56f611",
+      "domain": ".learn.e1cloudqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7SR63ZR7PT",
+      "value": "GS1.1.1713334402.1.1.1713334442.0.0.0",
+      "domain": ".e1cloudqa.com",
+      "path": "/",
+      "expires": 1747894442.082606,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

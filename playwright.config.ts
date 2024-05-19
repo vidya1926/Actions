@@ -21,7 +21,7 @@ export default defineConfig({
   /* Opt out of parallel tests on CI. */
   workers: 1,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: 'html',
+  reporter: [ ['html'],['allure-playwright',{outputFolder:'my-allure-report'},]],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('/')`. */
@@ -38,11 +38,11 @@ export default defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
-    // {
-    //   name: 'loginCredentials',   
-    //   testMatch:"learnStoragestatewithDependencies.spec.ts",
+     {
+       name: 'loginCredentials',   
+       testMatch:["learnStoragestatewithDependencies.spec.ts",""],
     //   use: { ...devices['BlackBerry Z30 landscape']}
-    // },
+     },
 
     //     {
     //       name: 'usingStorageState',

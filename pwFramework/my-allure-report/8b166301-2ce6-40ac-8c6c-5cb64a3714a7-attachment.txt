@@ -1,0 +1,13 @@
+CREATE USER
+Account has been verified
+India
+Account has been verified
+Tamil Nadu
+Account has been verified
+(GMT+05:30) Indian Standard Time/Kolkata
+Account has been verified
+Indian Rupee
+Account has been verified
+Save is visible as expected.
+“Rambo001” has been created successfully.
+Account has been verified
